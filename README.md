@@ -18,13 +18,13 @@ Buatlah fungsi untuk mendapatkan jumlah semua bilangan genap dalam nested objek
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Rizkidwi14/Keda-Tech-Javascript-Assessment.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd javascript-exercises
+   cd Keda-Tech-Javascript-Assessment
    ```
 
 3. Install dependencies:
